@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHpITlA3SlFvQktlWE9uWUJjTGNuMWNPU3hqd3xBQ3Jtc0trdnFBM2pCdXJaZDJlTU5Dc1lXQ1VSSVgzSnJDaG9uV3p1MzNLRTB5UzhLSWQtdDRwbm9YRDlLc1ZoejZmSmlWQWFBZ3lHb0xHQ0t4c1NDcW9YUTFabVF4bk9UWGdXZEU2TmFUVHNheDAtSUZHRzhlNA&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0"/>
+<img align="right" alt="Coding" src="https://github.com/user-attachments/assets/39c83acf-8eb7-43f1-9ae7-b3ee5a27b509"/>
 <h1 align="center">Hi 👋, I'm Lokesh Sain</h1>
 <h3 align="center">A Full-Stack Developer and MCA Student</h3>
 
@@ -23,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thelokeshsain&show_icons=true&locale=en&layout=compact" alt="thelokeshsain" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thelokeshsain&show_icons=true&locale=en" alt="thelokeshsain" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thelokeshsain&show_icons=true&locale=en" alt="thelokeshsain" /></p>>
