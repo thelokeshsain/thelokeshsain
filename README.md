@@ -4,14 +4,14 @@
 <!--                        HERO BANNER                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Lokesh%20Sain&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%94%20React.js%20%26%20MERN%20Stack&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=200&amp;section=header&amp;text=Lokesh%20Sain&amp;fontSize=72&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%E2%80%94%20React.js%20%26%20MERN%20Stack&amp;descAlignY=58&amp;descSize=20&amp;animation=fadeIn" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                     ANIMATED TYPING HEADLINE                        -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1900&color=FFDE2D&background=00000000&center=true&vCenter=true&width=600&lines=React+Developer;MERN+Engineer;Frontend+Architect;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;pause=1900&amp;color=FFDE2D&amp;background=00000000&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=React+Developer;MERN+Engineer;Frontend+Architect;Problem+Solver" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,11 +20,11 @@
 <!--                        STATUS BADGE                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://img.shields.io/badge/%E2%97%8F%20Open%20to%20Opportunities-00CC66?style=for-the-badge&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/%E2%97%8F%20Open%20to%20Opportunities-00CC66?style=for-the-badge&amp;logoColor=000000&amp;labelColor=000000" />
 &nbsp;
-<img src="https://img.shields.io/badge/📍%20Jaipur%2C%20Rajasthan-FFDE2D?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/📍%20Jaipur%2C%20Rajasthan-FFDE2D?style=for-the-badge&amp;labelColor=000000" />
 &nbsp;
-<img src="https://img.shields.io/badge/@ 3Handshake Techsoft-FF90BB?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/@ 3Handshake Techsoft-FF90BB?style=for-the-badge&amp;labelColor=000000" />
 
 <br/><br/>
 
@@ -275,15 +275,15 @@ MCA from **DY Patil Institute** (CGPA 8.29) · BCA from **S.S. Jain Subodh PG Co
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thelokeshsain&show_icons=true&theme=catppuccin_mocha&hide_border=true&border_radius=12&title_color=FFDE2D&icon_color=00CC66&text_color=f0f0f0&bg_color=111111" height="180" alt="Lokesh's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=thelokeshsain&amp;show_icons=true&amp;theme=catppuccin_mocha&amp;hide_border=true&amp;border_radius=12&amp;title_color=FFDE2D&amp;icon_color=00CC66&amp;text_color=f0f0f0&amp;bg_color=111111" height="180" alt="Lokesh's GitHub Stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelokeshsain&layout=compact&theme=catppuccin_mocha&hide_border=true&border_radius=12&title_color=FFDE2D&text_color=f0f0f0&bg_color=111111&langs_count=8" height="180" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelokeshsain&amp;layout=compact&amp;theme=catppuccin_mocha&amp;hide_border=true&amp;border_radius=12&amp;title_color=FFDE2D&amp;text_color=f0f0f0&amp;bg_color=111111&amp;langs_count=8" height="180" alt="Most Used Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=thelokeshsain&theme=catppuccin-mocha&hide_border=true&border_radius=12&ring=FFDE2D&fire=FF90BB&currStreakLabel=00CC66&background=111111&stroke=111111&dates=b0b0b0&sideLabels=00CC66&sideNums=f0f0f0&currStreakNum=FFDE2D" alt="Lokesh's GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=thelokeshsain&amp;theme=catppuccin-mocha&amp;hide_border=true&amp;border_radius=12&amp;ring=FFDE2D&amp;fire=FF90BB&amp;currStreakLabel=00CC66&amp;background=111111&amp;stroke=111111&amp;dates=b0b0b0&amp;sideLabels=00CC66&amp;sideNums=f0f0f0&amp;currStreakNum=FFDE2D" alt="Lokesh's GitHub Streak" />
 
 </div>
 
@@ -293,7 +293,7 @@ MCA from **DY Patil Institute** (CGPA 8.29) · BCA from **S.S. Jain Subodh PG Co
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thelokeshsain&theme=github-compact&bg_color=111111&color=FFDE2D&line=00CC66&point=FF90BB&area=true&area_color=FFDE2D&hide_border=true&radius=12" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thelokeshsain&amp;theme=github-compact&amp;bg_color=111111&amp;color=FFDE2D&amp;line=00CC66&amp;point=FF90BB&amp;area=true&amp;area_color=FFDE2D&amp;hide_border=true&amp;radius=12" width="100%" alt="Contribution Graph" />
 
 </div>
 
@@ -355,7 +355,7 @@ MCA from **DY Patil Institute** (CGPA 8.29) · BCA from **S.S. Jain Subodh PG Co
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=100&amp;section=footer&amp;animation=fadeIn" width="100%" />
 
 <sub>
   Crafted with ❤️ by <a href="https://lokeshsain.vercel.app"><strong>Lokesh Sain</strong></a> · <a href="mailto:iamlokeshsain@gmail.com">iamlokeshsain@gmail.com</a>
