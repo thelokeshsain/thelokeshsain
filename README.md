@@ -291,11 +291,18 @@ MCA from **DY Patil Institute** (CGPA 8.29) · BCA from **S.S. Jain Subodh PG Co
 
 </div>
 
-**Top Languages:**
+**Languages I work with:**
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thelokeshsain&layout=compact&theme=catppuccin_mocha&hide_border=true&border_radius=12&title_color=FFDE2D&text_color=f0f0f0&bg_color=111111&langs_count=8)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![JSX](https://img.shields.io/badge/JSX%20%2F%20React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ffffff)
+![SQL](https://img.shields.io/badge/SQL%20%2F%20MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
 
 </div>
 
