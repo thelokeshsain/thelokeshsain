@@ -1,36 +1,42 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        HERO BANNER                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Lokesh%20Sain&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%94%20React.js%20%26%20MERN%20Stack&descAlignY=58&descSize=20&animation=fadeIn)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=200&amp;section=header&amp;text=Lokesh%20Sain&amp;fontSize=72&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%E2%80%94%20React.js%20%26%20MERN%20Stack&amp;descAlignY=58&amp;descSize=20&amp;animation=fadeIn" width="100%" />
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                     ANIMATED TYPING HEADLINE                        -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;pause=1900&amp;color=FFDE2D&amp;background=00000000&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=React+Developer;MERN+Engineer;Frontend+Architect;Problem+Solver" alt="Typing SVG" />
-</a>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1900&color=FFDE2D&background=00000000&center=true&vCenter=true&width=600&lines=React+Developer;MERN+Engineer;Frontend+Architect;Problem+Solver)](https://git.io/typing-svg)
+
+</div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        STATUS BADGE                                 -->
+<!--                        STATUS BADGES                                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://img.shields.io/badge/%E2%97%8F%20Open%20to%20Opportunities-00CC66?style=for-the-badge&amp;logoColor=000000&amp;labelColor=000000" />
-&nbsp;
-<img src="https://img.shields.io/badge/📍%20Jaipur%2C%20Rajasthan-FFDE2D?style=for-the-badge&amp;labelColor=000000" />
-&nbsp;
-<img src="https://img.shields.io/badge/@ 3Handshake Techsoft-FF90BB?style=for-the-badge&amp;labelColor=000000" />
+<div align="center">
 
-<br/><br/>
+![Open to Opportunities](https://img.shields.io/badge/%E2%97%8F_Open_to_Opportunities-00CC66?style=for-the-badge&labelColor=000000)
+&nbsp;
+![Location](https://img.shields.io/badge/Jaipur%2C_Rajasthan-FFDE2D?style=for-the-badge&labelColor=000000&logo=googlemaps&logoColor=000000)
+&nbsp;
+![Company](https://img.shields.io/badge/3Handshake_Techsoft-FF90BB?style=for-the-badge&labelColor=000000)
+
+</div>
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                       SOCIAL LINKS                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-thelokeshsain-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thelokeshsain)
 &nbsp;
@@ -72,13 +78,13 @@ MCA from **DY Patil Institute** (CGPA 8.29) · BCA from **S.S. Jain Subodh PG Co
 
 ```json
 {
-  "name":        "Lokesh Sain",
-  "role":        "Software Engineer",
-  "company":     "3Handshake Techsoft",
-  "mca_cgpa":    8.29,
-  "bca":         "81.64%",
-  "stack":       ["React", "Node", "MongoDB"],
-  "location":    "Jaipur, Rajasthan",
+  "name":         "Lokesh Sain",
+  "role":         "Software Engineer",
+  "company":      "3Handshake Techsoft",
+  "mca_cgpa":     8.29,
+  "bca":          "81.64%",
+  "stack":        ["React", "Node", "MongoDB"],
+  "location":     "Jaipur, Rajasthan",
   "open_to_work": true
 }
 ```
@@ -91,15 +97,12 @@ MCA from **DY Patil Institute** (CGPA 8.29) · BCA from **S.S. Jain Subodh PG Co
 
 ## 💼 Current Position
 
-<table>
-  <tr>
-    <td>
-      <strong>🟢 Software Engineer</strong> — <a href="https://3handshake.com">3Handshake Techsoft Pvt. Ltd.</a><br/>
-      <code>Jul 2025 — Present · Jaipur, Rajasthan</code><br/><br/>
-      Architecting scalable React.js applications and improving Core Web Vitals through code splitting, lazy loading, and state optimization in an Agile/Scrum environment.
-    </td>
-  </tr>
-</table>
+| | |
+|---|---|
+| 🟢 **Software Engineer** | [3Handshake Techsoft Pvt. Ltd.](https://3handshake.com) |
+| 📅 Period | `Jul 2025 — Present` |
+| 📍 Location | Jaipur, Rajasthan |
+| 💬 Summary | Architecting scalable React.js applications and improving Core Web Vitals through code splitting, lazy loading, and state optimization in an Agile/Scrum environment. |
 
 ---
 
@@ -114,18 +117,18 @@ MCA from **DY Patil Institute** (CGPA 8.29) · BCA from **S.S. Jain Subodh PG Co
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=fff)
-![React Hooks](https://img.shields.io/badge/React%20Hooks-61DAFB?style=flat-square&logo=react&logoColor=000)
-![Context API](https://img.shields.io/badge/Context%20API-61DAFB?style=flat-square&logo=react&logoColor=000)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-00CC66?style=flat-square&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=fff)
+![React Hooks](https://img.shields.io/badge/React_Hooks-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-00CC66?style=flat-square&logoColor=fff)
 
 ### ◈ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=fff)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6B35?style=flat-square&logoColor=fff)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B35?style=flat-square&logoColor=fff)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
-![API Integration](https://img.shields.io/badge/API%20Integration-FF90BB?style=flat-square&logoColor=000)
+![API Integration](https://img.shields.io/badge/API_Integration-FF90BB?style=flat-square&logoColor=000)
 
 ### ◉ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
@@ -135,18 +138,17 @@ MCA from **DY Patil Institute** (CGPA 8.29) · BCA from **S.S. Jain Subodh PG Co
 ### ⊞ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=fff)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=fff)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=fff)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=fff)
-![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=fff)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=fff)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=fff)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=fff)
 
 <div align="center">
 
-**Core Stack →**&nbsp;
-`React.js` &nbsp;`Node.js` &nbsp;`MongoDB` &nbsp;`MySQL` &nbsp;`JavaScript` &nbsp;`Git` &nbsp;`REST APIs`
+**Core Stack →** &nbsp; `React.js` &nbsp; `Node.js` &nbsp; `MongoDB` &nbsp; `MySQL` &nbsp; `JavaScript` &nbsp; `Git` &nbsp; `REST APIs`
 
 </div>
 
@@ -194,9 +196,9 @@ MCA from **DY Patil Institute** (CGPA 8.29) · BCA from **S.S. Jain Subodh PG Co
 > Full-stack secure online backup solution with real-time data sync, intuitive dashboard, and seamless RESTful API integration.
 
 [![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=000)](https://www.apnabackup.com/)
-[![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6B35?style=flat-square)](https://www.apnabackup.com/)
+[![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B35?style=flat-square)](https://www.apnabackup.com/)
 [![Responsive](https://img.shields.io/badge/Responsive-00CC66?style=flat-square)](https://www.apnabackup.com/)
-&nbsp;[![Live Demo →](https://img.shields.io/badge/Live%20Demo%20→-000000?style=flat-square&logo=vercel&logoColor=FFDE2D)](https://www.apnabackup.com/)
+&nbsp;[![Live Demo →](https://img.shields.io/badge/Live_Demo_%E2%86%92-000000?style=flat-square&logo=vercel&logoColor=FFDE2D)](https://www.apnabackup.com/)
 
 ---
 
@@ -206,7 +208,7 @@ MCA from **DY Patil Institute** (CGPA 8.29) · BCA from **S.S. Jain Subodh PG Co
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=fff)](https://github.com/thelokeshsain/FoodCourt)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff)](https://github.com/thelokeshsain/FoodCourt)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)](https://github.com/thelokeshsain/FoodCourt)
-&nbsp;[![Source Code →](https://img.shields.io/badge/Source%20Code%20→-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/thelokeshsain/FoodCourt)
+&nbsp;[![Source Code →](https://img.shields.io/badge/Source_Code_%E2%86%92-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/thelokeshsain/FoodCourt)
 
 ---
 
@@ -215,8 +217,8 @@ MCA from **DY Patil Institute** (CGPA 8.29) · BCA from **S.S. Jain Subodh PG Co
 
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=fff)](https://github.com/thelokeshsain/Sizzling)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)](https://github.com/thelokeshsain/Sizzling)
-[![Full Stack](https://img.shields.io/badge/Full%20Stack-FF90BB?style=flat-square)](https://github.com/thelokeshsain/Sizzling)
-&nbsp;[![Source Code →](https://img.shields.io/badge/Source%20Code%20→-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/thelokeshsain/Sizzling)
+[![Full Stack](https://img.shields.io/badge/Full_Stack-FF90BB?style=flat-square)](https://github.com/thelokeshsain/Sizzling)
+&nbsp;[![Source Code →](https://img.shields.io/badge/Source_Code_%E2%86%92-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/thelokeshsain/Sizzling)
 
 ---
 
@@ -224,9 +226,9 @@ MCA from **DY Patil Institute** (CGPA 8.29) · BCA from **S.S. Jain Subodh PG Co
 > Real-time weather application with location search, beautiful weather visuals, and live 7-day forecast data.
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)](https://weatherappbylokesh.netlify.app/)
-[![Weather API](https://img.shields.io/badge/Weather%20API-4A90D9?style=flat-square)](https://weatherappbylokesh.netlify.app/)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)](https://weatherappbylokesh.netlify.app/)
-&nbsp;[![Live Demo →](https://img.shields.io/badge/Live%20Demo%20→-000000?style=flat-square&logo=netlify&logoColor=00C7B7)](https://weatherappbylokesh.netlify.app/)
+[![Weather API](https://img.shields.io/badge/Weather_API-4A90D9?style=flat-square)](https://weatherappbylokesh.netlify.app/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)](https://weatherappbylokesh.netlify.app/)
+&nbsp;[![Live Demo →](https://img.shields.io/badge/Live_Demo_%E2%86%92-000000?style=flat-square&logo=netlify&logoColor=00C7B7)](https://weatherappbylokesh.netlify.app/)
 
 ---
 
@@ -234,9 +236,9 @@ MCA from **DY Patil Institute** (CGPA 8.29) · BCA from **S.S. Jain Subodh PG Co
 > Search and explore any GitHub user — repos, followers, bio, and contribution stats in a clean, fast interface.
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)](https://githubuserbylokesh.netlify.app/)
-[![GitHub API](https://img.shields.io/badge/GitHub%20API-181717?style=flat-square&logo=github&logoColor=fff)](https://githubuserbylokesh.netlify.app/)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)](https://githubuserbylokesh.netlify.app/)
-&nbsp;[![Live Demo →](https://img.shields.io/badge/Live%20Demo%20→-000000?style=flat-square&logo=netlify&logoColor=00C7B7)](https://githubuserbylokesh.netlify.app/)
+[![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=fff)](https://githubuserbylokesh.netlify.app/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)](https://githubuserbylokesh.netlify.app/)
+&nbsp;[![Live Demo →](https://img.shields.io/badge/Live_Demo_%E2%86%92-000000?style=flat-square&logo=netlify&logoColor=00C7B7)](https://githubuserbylokesh.netlify.app/)
 
 ---
 
@@ -275,15 +277,15 @@ MCA from **DY Patil Institute** (CGPA 8.29) · BCA from **S.S. Jain Subodh PG Co
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thelokeshsain&amp;show_icons=true&amp;theme=catppuccin_mocha&amp;hide_border=true&amp;border_radius=12&amp;title_color=FFDE2D&amp;icon_color=00CC66&amp;text_color=f0f0f0&amp;bg_color=111111" height="180" alt="Lokesh's GitHub Stats" />
+![Lokesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thelokeshsain&show_icons=true&theme=catppuccin_mocha&hide_border=true&border_radius=12&title_color=FFDE2D&icon_color=00CC66&text_color=f0f0f0&bg_color=111111)
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelokeshsain&amp;layout=compact&amp;theme=catppuccin_mocha&amp;hide_border=true&amp;border_radius=12&amp;title_color=FFDE2D&amp;text_color=f0f0f0&amp;bg_color=111111&amp;langs_count=8" height="180" alt="Most Used Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thelokeshsain&layout=compact&theme=catppuccin_mocha&hide_border=true&border_radius=12&title_color=FFDE2D&text_color=f0f0f0&bg_color=111111&langs_count=8)
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=thelokeshsain&amp;theme=catppuccin-mocha&amp;hide_border=true&amp;border_radius=12&amp;ring=FFDE2D&amp;fire=FF90BB&amp;currStreakLabel=00CC66&amp;background=111111&amp;stroke=111111&amp;dates=b0b0b0&amp;sideLabels=00CC66&amp;sideNums=f0f0f0&amp;currStreakNum=FFDE2D" alt="Lokesh's GitHub Streak" />
+![GitHub Streak](https://streak-stats.demolab.com?user=thelokeshsain&theme=catppuccin-mocha&hide_border=true&border_radius=12&ring=FFDE2D&fire=FF90BB&currStreakLabel=00CC66&background=111111&stroke=111111&dates=b0b0b0&sideLabels=00CC66&sideNums=f0f0f0&currStreakNum=FFDE2D)
 
 </div>
 
@@ -293,7 +295,7 @@ MCA from **DY Patil Institute** (CGPA 8.29) · BCA from **S.S. Jain Subodh PG Co
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thelokeshsain&amp;theme=github-compact&amp;bg_color=111111&amp;color=FFDE2D&amp;line=00CC66&amp;point=FF90BB&amp;area=true&amp;area_color=FFDE2D&amp;hide_border=true&amp;radius=12" width="100%" alt="Contribution Graph" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thelokeshsain&theme=github-compact&bg_color=111111&color=FFDE2D&line=00CC66&point=FF90BB&area=true&area_color=FFDE2D&hide_border=true&radius=12)
 
 </div>
 
@@ -339,9 +341,9 @@ MCA from **DY Patil Institute** (CGPA 8.29) · BCA from **S.S. Jain Subodh PG Co
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thelokeshsain)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamlokeshsain@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamlokeshsain@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-FFDE2D?style=for-the-badge&logo=vercel&logoColor=000000)](https://lokeshsain.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FFDE2D?style=for-the-badge&logo=vercel&logoColor=000000)](https://lokeshsain.vercel.app)
 
 📍 **Jaipur, Rajasthan** &nbsp;|&nbsp; 🟢 **Open to full-time & freelance opportunities**
 
@@ -355,11 +357,9 @@ MCA from **DY Patil Institute** (CGPA 8.29) · BCA from **S.S. Jain Subodh PG Co
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=100&amp;section=footer&amp;animation=fadeIn" width="100%" />
+![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=fadeIn)
 
-<sub>
-  Crafted with ❤️ by <a href="https://lokeshsain.vercel.app"><strong>Lokesh Sain</strong></a> · <a href="mailto:iamlokeshsain@gmail.com">iamlokeshsain@gmail.com</a>
-</sub>
+*Crafted with ❤️ by [**Lokesh Sain**](https://lokeshsain.vercel.app) · [iamlokeshsain@gmail.com](mailto:iamlokeshsain@gmail.com)*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thelokeshsain&color=FFDE2D&style=flat-square&label=Profile+Views)
 
