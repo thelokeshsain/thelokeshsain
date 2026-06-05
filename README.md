@@ -1,6 +1,10 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Lokesh%20Sain&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%94%20React.js%20%26%20MERN%20Stack&descAlignY=58&descSize=20&animation=fadeIn)
+<img src="https://github.com/thelokeshsain.png?size=200" width="150" alt="Lokesh Sain" />
+
+# Lokesh Sain
+
+**Software Engineer — React.js & MERN Stack**
 
 </div>
 
@@ -275,10 +279,22 @@ MCA from **DY Patil Institute** (CGPA 8.29) · BCA from **S.S. Jain Subodh PG Co
 
 ## 📊 GitHub Stats
 
+**Live from the official GitHub API:**
+
 <div align="center">
 
-![Lokesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thelokeshsain&show_icons=true&theme=catppuccin_mocha&hide_border=true&border_radius=12&title_color=FFDE2D&icon_color=00CC66&text_color=f0f0f0&bg_color=111111)
-&nbsp;&nbsp;
+![GitHub Followers](https://img.shields.io/github/followers/thelokeshsain?style=for-the-badge&logo=github&label=Followers&labelColor=111111&color=FFDE2D)
+&nbsp;
+![GitHub Stars](https://img.shields.io/github/stars/thelokeshsain?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars&labelColor=111111&color=00CC66)
+&nbsp;
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fthelokeshsain&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&labelColor=111111&color=FF90BB)
+
+</div>
+
+**Top Languages:**
+
+<div align="center">
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thelokeshsain&layout=compact&theme=catppuccin_mocha&hide_border=true&border_radius=12&title_color=FFDE2D&text_color=f0f0f0&bg_color=111111&langs_count=8)
 
 </div>
