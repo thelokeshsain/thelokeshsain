@@ -33,6 +33,8 @@ I build responsive web applications with React.js, integrate LLM APIs into produ
 
 ### Building what's next.
 
+<img src="https://lokeshsain.vercel.app/_next/image?url=%2Fimages%2Fhero_laptop_mockup.webp&w=1920&q=75" alt="Lokesh Sain — Software Engineer modern development environment" width="80%" />
+
 `Clean Code` &nbsp;·&nbsp; `Scalable Products` &nbsp;·&nbsp; `Better Experiences`
 
 </div>
@@ -68,7 +70,27 @@ I build responsive web applications with React.js, integrate LLM APIs into produ
 
 I'm Lokesh Sain, a full-stack software engineer based in Jaipur, India. I enjoy building web applications that are reliable, user-friendly and solve real problems. I'm especially interested in modern web technologies, scalable architectures and practical use cases of AI/LLM APIs in everyday products.
 
-[**Know More About Me →**](https://lokeshsain.vercel.app/#about)
+<details>
+<summary><b>Know More About Me →</b></summary>
+
+<br/>
+
+#### 🎓 Education
+
+| Degree | Institution | Period | Grade |
+|:---|:---|:---:|:---:|
+| **MCA** — Master of Computer Applications | DY Patil Institute of MCA & Management | 2023 – 2025 | **CGPA 8.29 / 10** |
+| **BCA** — Bachelor of Computer Applications | S.S. Jain Subodh PG College | 2020 – 2023 | **81.64%** |
+
+#### 🏆 Achievements & Certifications
+
+| | Title | Issuer |
+|:---:|:---|:---|
+| 🏆 | **Codeathon Hackathon** | MIT-WPU · Apr 2024 |
+| 📜 | **Python Programming** | IIT Bombay — Spoken Tutorial |
+| 📜 | **HTML Web Development** | IIT Bombay — Spoken Tutorial |
+
+</details>
 
 ### My Approach
 
